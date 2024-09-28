@@ -23,14 +23,6 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-![](./screenshot.jpeg)
-
-### Links
-
-- Solution URL: [Fylo landing page solution](https://www.frontendmentor.io/solutions/responsive-fylo-landing-page-2-column-layout-with-css-flexbox-Ncnyswdk-b)
-- Live Site URL: [Fylo landing page with two column layout](https://main--chimerical-jalebi-ccc5d9.netlify.app/)
 
 
 ### Built with
@@ -42,12 +34,3 @@ Users should be able to:
 - Mobile-first workflow
 - BouncerJS form validator
 
-
-### Useful resources
-
-- [BouncerJS](https://github.com/cferdinandi/bouncer) - This helped with form validation without having to write any JS
-
-## Author
-
-- Frontend Mentor - [@Orekihotarou-k](https://www.frontendmentor.io/profile/Orekihotarou-k)
-- Twitter - [@HaroukiK](https://www.twitter.com/HaroukiK)
